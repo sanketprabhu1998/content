@@ -45,7 +45,7 @@ To get this assessment started, you should go and grab the [zip file containing 
 
 The zip file contains:
 
-- The HTML you need to add structural markup to.
+- The HTML you need t add structural markup to.
 - CSS to style your markup.
 - Images that are used on the page.
 
